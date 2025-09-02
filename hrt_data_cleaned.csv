@@ -1,0 +1,116 @@
+id,sex,initial_sex_orientation,age_of_onset,onset_before_12,age_psychol,age_role,hormonetherapy,age_hormonetherapy,hormonetype,sex_reassignment_surgery,age_surgery,type_of_surgery,changesexorient,age_changesexorient,direction_change,interval_horm_surg
+1,FtM,Gynephilic,4.0,1.0,45.0,45.0,Yes,46.0,T intramuscular,Yes,47.0,Hysterectomy + Mastectomy,Yes,46.0,Gynephilic to Androphilic,1.0
+2,FtM,Gynephilic,5.0,1.0,40.0,41.0,Yes,42.0,T intramuscular,Yes,38.59090909090909,Hysterectomy + Mastectomy,No,35.766666666666666,None,2.9523809523809526
+3,MtF,Gynephilic,5.0,1.0,22.0,43.0,Yes,22.0,Estradiol oral,Yes,37.0,Neovagina,No,35.766666666666666,None,15.0
+4,FtM,Gynephilic,12.0,1.0,22.0,23.0,Yes,23.0,T intramuscular,No,38.59090909090909,None,Yes,23.0,Gynephilic to Androphilic,2.9523809523809526
+5,FtM,Gynephilic,6.0,1.0,21.0,20.0,Yes,21.0,T intramuscular,No,38.59090909090909,None,Yes,15.0,Gynephilic to Bisexual,2.9523809523809526
+6,MtF,Gynephilic,13.0,2.0,24.0,36.17171717171717,Yes,25.0,Estradiol + gestagen,No,38.59090909090909,None,Yes,24.0,Gynephilic to Androphilic,2.9523809523809526
+7,MtF,Androphilic,4.0,1.0,55.0,36.17171717171717,Yes,54.0,Estradiol + gestagen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+8,MtF,Androphilic,5.0,1.0,47.0,49.0,Yes,25.0,Estradiol oral,Yes,50.0,Neovagina,Yes,50.0,None,25.0
+9,FtM,Androphilic,4.0,1.0,46.0,47.0,Yes,48.0,T intramuscular,Yes,38.59090909090909,Hysterectomy + Mastectomy,No,35.766666666666666,None,2.9523809523809526
+10,FtM,Gynephilic,7.0,1.0,30.0,36.17171717171717,Yes,30.0,T intramuscular,Yes,31.0,+Penoid,No,35.766666666666666,None,1.0
+11,MtF,Gynephilic,3.0,1.0,40.0,40.0,No,35.683673469387756,Unknown,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+12,FtM,Gynephilic,4.0,1.0,17.0,20.0,Yes,35.683673469387756,T transdermal,No,20.0,None,No,35.766666666666666,None,2.9523809523809526
+13,FtM,Gynephilic,6.0,1.0,18.0,36.17171717171717,Yes,17.0,T intramuscular,Yes,20.0,Hysterectomy + Mastectomy,Yes,55.0,Gynephilic to Bisexual,3.0
+14,FtM,Gynephilic,5.0,1.0,21.0,21.0,Yes,23.0,T intramuscular,Yes,24.0,+Penoid,No,35.766666666666666,None,1.0
+15,MtF,Androphilic,7.0,1.0,44.0,44.0,No,35.683673469387756,Unknown,Yes,47.0,Neovagina,No,35.766666666666666,None,2.9523809523809526
+16,MtF,Bisexual,9.784313725490197,,22.0,21.0,Yes,22.0,Estradiol oral,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+17,MtF,Gynephilic,9.784313725490197,,34.575221238938056,36.17171717171717,No,35.683673469387756,Unknown,No,38.59090909090909,None,Yes,42.0,Gynephilic to Bisexual,2.9523809523809526
+18,MtF,Gynephilic,5.0,1.0,50.0,50.0,No,35.683673469387756,Unknown,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+19,MtF,Gynephilic,7.0,1.0,26.0,33.0,Yes,30.0,Estradiol transdermal,Yes,36.0,Neovagina,Yes,40.0,Gynephilic to Androphilic,6.0
+20,MtF,Androphilic,6.0,1.0,38.0,38.0,Yes,35.683673469387756,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+21,MtF,Analloerotic,14.0,2.0,53.0,53.0,Yes,53.0,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+22,FtM,Gynephilic,7.0,1.0,39.0,39.0,Yes,39.0,T transdermal,No,38.59090909090909,None,Yes,30.0,Gynephilic to Bisexual,2.9523809523809526
+23,FtM,Gynephilic,3.0,1.0,36.0,36.17171717171717,Yes,35.683673469387756,T transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+24,MtF,Analloerotic,15.0,2.0,15.0,26.0,Yes,20.0,Estradiol + gestagen,Yes,25.0,Neovagina,No,35.766666666666666,None,5.0
+25,MtF,Androphilic,9.784313725490197,,35.0,35.0,Yes,36.0,Estradiol + gestagen,Yes,37.0,Neovagina,Yes,37.0,None,1.0
+26,MtF,Gynephilic,9.784313725490197,,58.0,58.0,Yes,57.0,E + Antiandrogen,Yes,60.0,Neovagina,,35.766666666666666,None,3.0
+27,FtM,Gynephilic,3.0,1.0,36.0,20.0,Yes,36.0,Unknown,Yes,37.0,+Penoid,No,35.766666666666666,None,1.0
+28,FtM,Gynephilic,15.0,2.0,24.0,24.0,Yes,22.0,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+29,MtF,Androphilic,11.0,1.0,11.0,19.0,Yes,16.0,Estradiol transdermal,Yes,20.0,Neovagina,No,35.766666666666666,None,4.0
+30,MtF,Bisexual,16.0,2.0,17.0,36.17171717171717,Yes,16.0,Estradiol transdermal,Yes,20.0,Neovagina,No,35.766666666666666,None,4.0
+31,MtF,Gynephilic,8.0,1.0,38.0,39.0,Yes,40.0,E + Antiandrogen,Yes,43.0,None,Yes,35.766666666666666,Gynephilic to Bisexual,3.0
+32,MtF,Gynephilic,49.0,2.0,53.0,54.0,Yes,55.0,Estradiol + gestagen,Yes,57.0,Neovagina,No,35.766666666666666,None,2.0
+33,MtF,Bisexual,22.0,2.0,32.0,28.0,Yes,33.0,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+34,MtF,Gynephilic,14.0,2.0,34.575221238938056,42.0,No,35.683673469387756,Unknown,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+35,MtF,Androphilic,15.0,2.0,16.0,36.17171717171717,Yes,17.0,E + Antiandrogen,Yes,18.0,None,No,35.766666666666666,None,1.0
+36,FtM,Gynephilic,7.0,1.0,30.0,31.0,Yes,31.0,T intramuscular,Yes,35.0,+Penoid,No,35.766666666666666,None,4.0
+37,MtF,Gynephilic,5.0,1.0,28.0,30.0,Yes,30.0,Estradiol transdermal,No,38.59090909090909,None,Yes,30.0,Gynephilic to Bisexual,2.9523809523809526
+38,MtF,Gynephilic,9.784313725490197,,61.0,61.0,Yes,61.0,Estradiol transdermal,Yes,63.0,Neovagina,No,35.766666666666666,None,2.0
+39,FtM,Gynephilic,10.0,1.0,42.0,42.0,Yes,41.0,T intramuscular,Yes,43.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,2.0
+40,MtF,Gynephilic,7.0,1.0,37.0,39.0,Yes,40.0,Estradiol + gestagen,Yes,42.0,Neovagina,Yes,43.0,Gynephilic to Bisexual,2.0
+41,MtF,Gynephilic,7.0,1.0,27.0,28.0,Yes,27.0,Estradiol oral,Yes,30.0,Neovagina,,35.766666666666666,None,3.0
+42,MtF,Gynephilic,10.0,1.0,43.0,43.0,Yes,43.0,Estradiol oral,Yes,44.0,Neovagina,Yes,43.0,Gynephilic to Androphilic,1.0
+43,FtM,Gynephilic,3.0,1.0,17.0,36.17171717171717,No,35.683673469387756,Unknown,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+44,MtF,Gynephilic,11.0,1.0,46.0,47.0,Yes,45.0,Estradiol transdermal,Yes,48.0,Neovagina,Yes,46.0,Gynephilic to Bisexual,3.0
+45,MtF,Bisexual,5.0,1.0,39.0,42.0,Yes,42.0,Unknown,Yes,43.0,Neovagina,No,35.766666666666666,None,1.0
+46,MtF,Androphilic,4.0,1.0,50.0,50.0,Yes,50.0,Estradiol + gestagen,Yes,52.0,Neovagina,No,35.766666666666666,None,2.0
+47,FtM,Androphilic,9.784313725490197,,35.0,34.0,Yes,34.0,T transdermal,Yes,36.0,Hysterectomy + Mastectomy,Yes,37.0,Androphilic to Gynephilic,2.0
+48,MtF,Gynephilic,30.0,2.0,46.0,46.0,Yes,46.0,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+49,FtM,Gynephilic,13.0,2.0,25.0,25.0,Yes,27.0,T intramuscular,Yes,28.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,1.0
+50,MtF,Gynephilic,13.0,2.0,28.0,50.0,Yes,27.0,Estradiol transdermal,Yes,54.0,Neovagina,Yes,35.766666666666666,Gynephilic to Androphilic,27.0
+51,FtM,Gynephilic,9.784313725490197,,24.0,24.0,Yes,25.0,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+52,MtF,Analloerotic,11.0,1.0,40.0,41.0,Yes,40.0,Estradiol oral,Yes,43.0,Neovagina,Yes,42.0,Analloerotic to Androphilic,3.0
+53,MtF,Analloerotic,17.0,2.0,18.0,18.0,Yes,23.0,E + Antiandrogen,No,38.59090909090909,None,Yes,14.0,Analloerotic to Bisexual,2.9523809523809526
+54,MtF,Analloerotic,25.0,2.0,26.0,26.0,Yes,26.0,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+55,MtF,Androphilic,6.0,1.0,33.0,33.0,No,35.683673469387756,Unknown,No,38.59090909090909,None,Yes,14.0,Androphilic to Bisexual,2.9523809523809526
+56,MtF,Androphilic,6.0,1.0,47.0,49.0,Yes,49.0,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+57,MtF,Androphilic,8.0,1.0,38.0,36.0,Yes,35.683673469387756,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+58,FtM,Gynephilic,4.0,1.0,32.0,36.17171717171717,Yes,32.0,T transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+59,MtF,Androphilic,3.0,1.0,16.0,18.0,Yes,17.0,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+60,MtF,Gynephilic,8.0,1.0,35.0,35.0,Yes,35.0,Estradiol oral,No,38.59090909090909,None,Yes,36.0,Gynephilic to Androphilic,2.9523809523809526
+61,MtF,Gynephilic,8.0,1.0,58.0,57.0,Yes,59.0,Estradiol transdermal,Yes,62.0,Neovagina,No,35.766666666666666,None,3.0
+62,FtM,Analloerotic,2.0,1.0,27.0,27.0,Yes,27.0,T transdermal,Yes,27.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,0.0
+63,MtF,Gynephilic,14.0,2.0,70.0,70.0,Yes,69.0,Estradiol transdermal,Yes,70.0,Neovagina,No,35.766666666666666,None,1.0
+64,MtF,Gynephilic,11.0,1.0,41.0,41.0,Yes,41.0,Estradiol + gestagen,Yes,43.0,Neovagina,Yes,42.0,Gynephilic to Bisexual,2.0
+65,FtM,Gynephilic,23.0,2.0,27.0,27.0,Yes,30.0,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+66,MtF,Gynephilic,5.0,1.0,35.0,33.0,Yes,33.0,Estradiol transdermal,Yes,34.0,Neovagina,No,35.766666666666666,None,1.0
+67,FtM,Bisexual,7.0,1.0,34.0,33.0,Yes,36.0,T transdermal,Yes,38.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,2.0
+68,MtF,Analloerotic,15.0,2.0,43.0,40.0,Yes,43.0,E + Antiandrogen,No,38.59090909090909,None,Yes,35.766666666666666,None,2.9523809523809526
+69,FtM,Gynephilic,8.0,1.0,33.0,34.0,Yes,33.0,T intramuscular,Yes,34.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,1.0
+70,MtF,Gynephilic,13.0,2.0,38.0,39.0,Yes,33.0,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+71,FtM,Gynephilic,8.0,1.0,32.0,33.0,Yes,34.0,T transdermal,Yes,35.0,None,No,35.766666666666666,None,1.0
+72,MtF,Gynephilic,9.0,1.0,59.0,59.0,Yes,57.0,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+73,FtM,Bisexual,16.0,2.0,24.0,19.0,No,35.683673469387756,Unknown,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+74,MtF,Gynephilic,15.0,2.0,51.0,52.0,Yes,52.0,Estradiol transdermal,Yes,53.0,None,No,35.766666666666666,None,1.0
+75,FtM,Androphilic,5.0,1.0,34.0,36.0,Yes,34.0,T intramuscular,No,38.59090909090909,None,Yes,36.0,Androphilic to Gynephilic,2.9523809523809526
+76,FtM,Gynephilic,6.0,1.0,25.0,25.0,Yes,24.0,T intramuscular,Yes,24.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,0.0
+77,MtF,Androphilic,6.0,1.0,38.0,38.0,Yes,39.0,Estradiol transdermal,Yes,40.0,Neovagina,No,35.766666666666666,None,1.0
+78,MtF,Gynephilic,6.0,1.0,37.0,40.0,Yes,36.0,Estradiol oral,Yes,37.0,Neovagina,Yes,38.0,Gynephilic to Androphilic,1.0
+79,FtM,Gynephilic,8.0,1.0,42.0,20.0,Yes,42.0,T intramuscular,Yes,44.0,+Penoid,No,35.766666666666666,None,2.0
+80,FtM,Androphilic,9.784313725490197,,28.0,28.0,Yes,29.0,T intramuscular,Yes,30.0,Hysterectomy + Mastectomy,Yes,29.0,Androphilic to Gynephilic,1.0
+81,FtM,Bisexual,35.0,2.0,40.0,40.0,Yes,40.0,T intramuscular,Yes,41.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,1.0
+82,FtM,Gynephilic,14.0,2.0,32.0,30.0,Yes,33.0,T intramuscular,Yes,34.0,Hysterectomy + Mastectomy,Yes,33.0,Gynephilic to Androphilic,1.0
+83,MtF,Androphilic,3.0,1.0,12.0,36.17171717171717,Yes,18.0,Estradiol transdermal,Yes,19.0,Neovagina,No,35.766666666666666,None,1.0
+84,FtM,Gynephilic,3.0,1.0,21.0,22.0,Yes,21.0,T intramuscular,Yes,23.0,+Penoid,No,35.766666666666666,None,2.0
+85,MtF,Gynephilic,4.0,1.0,47.0,47.0,Yes,47.0,Estradiol transdermal,Yes,48.0,Neovagina,No,35.766666666666666,None,1.0
+86,MtF,Gynephilic,10.0,1.0,45.0,36.17171717171717,Yes,35.683673469387756,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+87,MtF,Analloerotic,10.0,1.0,60.0,58.0,Yes,63.0,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+88,FtM,Androphilic,4.0,1.0,48.0,25.0,Yes,50.0,T intramuscular,Yes,56.0,Hysterectomy + Mastectomy,Yes,21.0,Androphilic to Gynephilic,6.0
+89,MtF,Gynephilic,14.0,2.0,38.0,39.0,Yes,38.0,E + Antiandrogen,Yes,41.0,Neovagina,No,35.766666666666666,None,3.0
+90,MtF,Gynephilic,40.0,2.0,57.0,58.0,Yes,56.0,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+91,MtF,Analloerotic,5.0,1.0,41.0,41.0,No,35.683673469387756,Unknown,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+92,MtF,Bisexual,5.0,1.0,36.0,34.0,Yes,36.0,Estradiol transdermal,Yes,38.0,Neovagina,No,35.766666666666666,None,2.0
+93,MtF,Gynephilic,4.0,1.0,42.0,42.0,Yes,42.0,Estradiol transdermal,Yes,45.0,Neovagina,Yes,45.0,Gynephilic to Bisexual,3.0
+94,MtF,Gynephilic,7.0,1.0,50.0,40.0,Yes,50.0,Estradiol transdermal,Yes,52.0,Neovagina,Yes,53.0,Gynephilic to Bisexual,2.0
+95,MtF,Bisexual,6.0,1.0,40.0,40.0,Yes,40.0,Estradiol transdermal,Yes,41.0,Neovagina,No,35.766666666666666,None,1.0
+96,MtF,Androphilic,5.0,1.0,24.0,47.0,Yes,44.0,Estradiol + gestagen,Yes,48.0,Neovagina,Yes,48.0,Androphilic to Gynephilic,4.0
+97,MtF,Bisexual,16.0,2.0,33.0,33.0,Yes,34.0,Estradiol transdermal,Yes,39.0,Neovagina,No,35.766666666666666,None,5.0
+98,FtM,Gynephilic,11.0,1.0,25.0,26.0,Yes,26.0,T intramuscular,Yes,27.0,+Penoid,No,35.766666666666666,None,1.0
+99,MtF,Gynephilic,10.0,1.0,41.0,46.0,Yes,41.0,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+100,FtM,Gynephilic,5.0,1.0,39.0,40.0,Yes,40.0,T intramuscular,Yes,41.0,+Penoid,No,35.766666666666666,None,1.0
+101,MtF,Gynephilic,12.0,1.0,39.0,40.0,Yes,40.0,Estradiol oral,Yes,41.0,Neovagina,Yes,48.0,Gynephilic to Analloerotic,1.0
+102,FtM,Gynephilic,18.0,2.0,25.0,25.0,Yes,35.683673469387756,T intramuscular,Yes,24.0,+Penoid,No,35.766666666666666,None,2.9523809523809526
+103,FtM,Androphilic,5.0,1.0,28.0,27.0,Yes,29.0,T transdermal,Yes,30.0,Hysterectomy + Mastectomy,No,35.766666666666666,None,1.0
+104,MtF,Androphilic,16.0,2.0,20.0,20.0,Yes,21.0,Estradiol transdermal,Yes,22.0,Neovagina,Yes,13.0,Androphilic to Gynephilic,1.0
+105,MtF,Gynephilic,6.0,1.0,37.0,51.0,Yes,50.0,Estradiol transdermal,Yes,53.0,Neovagina,No,35.766666666666666,None,3.0
+106,FtM,Gynephilic,4.0,1.0,21.0,36.17171717171717,Yes,35.683673469387756,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+107,FtM,Gynephilic,11.0,1.0,20.0,21.0,Yes,23.0,T intramuscular,Yes,23.0,Breast Augmentation,No,35.766666666666666,None,0.0
+108,FtM,Gynephilic,9.784313725490197,,20.0,20.0,Yes,21.0,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+109,FtM,Gynephilic,4.0,1.0,29.0,29.0,Yes,28.0,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+110,FtM,Analloerotic,9.784313725490197,,21.0,18.0,No,35.683673469387756,Unknown,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+111,MtF,Androphilic,9.784313725490197,,22.0,22.0,Yes,22.0,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+112,MtF,Androphilic,10.0,1.0,29.0,29.0,Yes,28.0,Estradiol transdermal,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+113,MtF,Analloerotic,9.784313725490197,,55.0,36.17171717171717,Yes,61.0,E + Antiandrogen,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+114,FtM,Gynephilic,3.0,1.0,17.0,36.17171717171717,Yes,17.0,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
+115,FtM,Bisexual,9.784313725490197,,23.0,36.17171717171717,Yes,28.0,T intramuscular,No,38.59090909090909,None,No,35.766666666666666,None,2.9523809523809526
